@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuSort"
+        app:showAsAction="always"
+        android:icon="@drawable/outline_remove_circle_outline_white"
+        android:title="@string/menu_date" />
+    <item
+        android:id="@+id/menuAll"
+        app:showAsAction="always"
+        android:icon="@drawable/outline_refresh_white"
+        android:title="@string/menu_all" />
+    <item
+        android:id="@+id/menuNoti"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/outline_notifications_white"
+        android:title="@string/menu_noti" />
+    <item
+        android:id="@+id/menuScience"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/outline_science_white"
+        android:title="@string/menu_science" />
+    <item
+
+        android:id="@+id/menuGames"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/outline_sports_esports_white"
+        android:title="@string/menu_games" />
+    <item
+
+        android:id="@+id/menuHiking"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/outline_hiking_white_24"
+        android:title="@string/menu_hiking" />
+    <item
+
+        android:id="@+id/menuConstr"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/outline_construction_white"
+        android:title="@string/menu_constr" />
+</menu>

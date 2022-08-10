@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">lab3_1</string>
+    <string name="fab_content_description">Floating action button</string>
+    <string name="add_todo">New To-Do</string>
+    <string name="todo_name_edit_text">Name</string>
+    <string name="todo_desc_edit_text">Description</string>
+    <string name="button_done">Done</string>
+    <string name="hint_name">Name</string>
+    <string name="date_button">Date</string>
+    <string name="time_button">Time</string>
+    <string name="menu_date">Date</string>
+    <string name="menu_all">All</string>
+    <string name="menu_noti">Notifications</string>
+    <string name="menu_science">Science</string>
+    <string name="menu_games">Games</string>
+    <string name="menu_hiking">Trips</string>
+    <string name="menu_constr">Repair</string>
+    <string name="hint_desc">Description</string>
+</resources>
